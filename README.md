@@ -1,4 +1,3 @@
-
 # AI Resume Screening System
 
 An AI-based application that screens resumes against a given job description and ranks candidates based on relevance.
